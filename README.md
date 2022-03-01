@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in a SaaS Startup operating in the marketing and sales domain. My primary works involves backend development powering the automation flows on our portal. We are currently in process of scaling them up as the users increase.
+- 🔭 I’m currently working in a CityMall as an SDE focusing on the microservices that power the tech.
 
 - 🌱 I’m currently learning Go, Docker and Kubernetes as part of my aim to understand and use the microservices architecuture. You can find all my code here.
 
